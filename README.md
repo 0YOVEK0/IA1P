@@ -25,13 +25,16 @@ Este proyecto explora conceptos fundamentales de inteligencia artificial, comenz
 
  ## Imagenes
 
-  ![Tenemos dos objetos, uno con una función de detección y otro como el que se detecta](IA1P/Assets/IMGS/ia1.png)
+![Tenemos dos objetos, uno con una función de detección y otro como el que se detecta](IA1P/Assets/IMGS/ia1.png)
+
  Tenemos dos objetos, uno con una función de detección y otro como el que se detecta
 
 ![Se muestra con gizmos las funciones del cono de visión](IA1P/Assets/IMGS/ia2.png)
+
 Se muestra con gizmos las funciones del cono de visión
 
 ![Se muestra con gizmos cómo cambia de color el cono de visión](IA1P/Assets/IMGS/ia3.png)
+
 Se muestra con gizmos cómo cambia de color el cono de visión
 
 
