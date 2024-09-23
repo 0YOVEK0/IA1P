@@ -5,6 +5,7 @@ En este repositorio se verán los conocimientos adquiridos en la clase de inteli
 ## Tabla de Contenidos
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Características](#características)
+- [Imagenes](#imagenes)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación](#instalación)
 
@@ -22,11 +23,15 @@ Este proyecto explora conceptos fundamentales de inteligencia artificial, comenz
 - Visualización del cono y su estado.
 - Perspectiva de seguimiento de objetos usando comportamientos de steering.
 
+  ## Imagenes
+
+  
+
 ## Tecnologías Utilizadas
 
 - **Lenguajes de programación:** C#
 - **Framework:** Unity 2023.2.18f1
-- **Documetacion Auxiliar** Chatgpt-4o
+- **Documetacion Auxiliar:** Chatgpt-4o
 
 ## Instalación
 
