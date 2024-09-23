@@ -25,6 +25,11 @@ Este proyecto explora conceptos fundamentales de inteligencia artificial, comenz
 
  ## Imagenes
 
+    ![Texto alternativo](IA1P/Assets/IMGS/ia1.png)
+
+
+
+ 
   
 
 ## Tecnologías Utilizadas
