@@ -25,7 +25,7 @@ Este proyecto explora conceptos fundamentales de inteligencia artificial, comenz
 
  ## Imagenes
 
-    ![Texto alternativo](IA1P/Assets/IMGS/ia1.png)
+   [Tenemos dos objtos uno con una funcion de deteccion y otro como el que se detecta](IA1P/Assets/IMGS/ia1.png)
 
 
 
