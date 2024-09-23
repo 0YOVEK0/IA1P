@@ -23,7 +23,7 @@ Este proyecto explora conceptos fundamentales de inteligencia artificial, comenz
 - Visualización del cono y su estado.
 - Perspectiva de seguimiento de objetos usando comportamientos de steering.
 
-  ## Imagenes
+ ## Imagenes
 
   
 
